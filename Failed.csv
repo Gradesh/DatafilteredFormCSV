@@ -1,0 +1,821 @@
+EMPLOYEE_ID,FIRST_NAME,EMAIL,Job_description,MANAGER_ID,DEPARTMENT_NAME
+198,Donald,[DOCONNEL],Shipping Clerk,124,Shipping
+199,Douglas,[DGRANT],Shipping Clerk,124,Shipping
+200,Jennifer,[JWHALEN],Administration Assistant,101,Administration
+201,Michael,[MHARTSTE],Marketing Manager,100,Marketing
+202,Pat,[PFAY],Marketing Representative,201,Marketing
+203,Susan,[SMAVRIS],Human Resources Representative,101,Human Resources
+204,Hermann,[HBAER],Public Relations Representative,101,Public Relations
+205,Shelley,[SHIGGINS],Accounting Manager,101,Accounting
+206,William,[WGIETZ],Public Accountant,205,Accounting
+100,Steven,[SKING],President, - ,Executive
+101,Neena,[NKOCHHAR],Administration Vice President,100,Executive
+102,Lex,[LDEHAAN],Administration Vice President,100,Executive
+103,Alexander,[AHUNOLD],Programmer,102,IT
+104,Bruce,[BERNST],Programmer,103,IT
+105,David,[DAUSTIN],Programmer,103,IT
+106,Valli,[VPATABAL],Programmer,103,IT
+107,Diana,[DLORENTZ],Programmer,103,IT
+108,Nancy,[NGREENBE],Finance Manager,101,Finance
+109,Daniel,[DFAVIET],Accountant,108,Finance
+110,John,[JCHEN],Accountant,108,Finance
+111,Ismael,[ISCIARRA],Accountant,108,Finance
+112,Jose Manuel,[JMURMAN],Accountant,108,Finance
+113,Luis,[LPOPP],Accountant,108,Finance
+114,Den,[DRAPHEAL],Purchasing Manager,100,Purchasing
+115,Alexander,[AKHOO],Purchasing Clerk,114,Purchasing
+116,Shelli,[SBAIDA],Purchasing Clerk,114,Purchasing
+117,Sigal,[STOBIAS],Purchasing Clerk,114,Purchasing
+118,Guy,[GHIMURO],Purchasing Clerk,114,Purchasing
+119,Karen,[KCOLMENA],Purchasing Clerk,114,Purchasing
+120,Matthew,[MWEISS],Stock Manager,100,Shipping
+121,Adam,[AFRIPP],Stock Manager,100,Shipping
+122,Payam,[PKAUFLIN],Stock Manager,100,Shipping
+123,Shanta,[SVOLLMAN],Stock Manager,100,Shipping
+124,Kevin,[KMOURGOS],Stock Manager,100,Shipping
+125,Julia,[JNAYER],Stock Clerk,120,Shipping
+126,Irene,[IMIKKILI],Stock Clerk,120,Shipping
+127,James,[JLANDRY],Stock Clerk,120,Shipping
+129,Laura,[LBISSOT@],Stock Clerk,121,Shipping
+131,James,[JAMRLOW],Stock Clerk,121,Shipping
+132,TJ,[TJOLSON],Stock Clerk,121,Shipping
+133,Jason,[JMALLIN],Stock Clerk,122,Shipping
+134,Michael,[MROGERS],Stock Clerk,122,Shipping
+135,Ki,[KGEE],Stock Clerk,122,Shipping
+136,Hazel,[HPHILTAN],Stock Clerk,122,Shipping
+137,Renske,[RLADWIG],Stock Clerk,123,Shipping
+138,Stephen,[SSTILES],Stock Clerk,123,Shipping
+139,John,[JSEO],Stock Clerk,123,Shipping
+140,Joshua,[JPATEL],Stock Clerk,123,Shipping
+198,Donald,[DOCONNEL],Shipping Clerk,124,Shipping
+199,Douglas,[DGRANT],Shipping Clerk,124,Shipping
+200,Jennifer,[JWHALEN],Administration Assistant,101,Administration
+201,Michael,[MHARTSTE],Marketing Manager,100,Marketing
+202,Pat,[PFAY],Marketing Representative,201,Marketing
+203,Susan,[SMAVRIS],Human Resources Representative,101,Human Resources
+204,Hermann,[HBAER],Public Relations Representative,101,Public Relations
+205,Shelley,[SHIGGINS],Accounting Manager,101,Accounting
+206,William,[WGIETZ],Public Accountant,205,Accounting
+100,Steven,[SKING],President, - ,Executive
+101,Neena,[NKOCHHAR],Administration Vice President,100,Executive
+102,Lex,[LDEHAAN],Administration Vice President,100,Executive
+103,Alexander,[AHUNOLD],Programmer,102,IT
+104,Bruce,[BERNST],Programmer,103,IT
+105,David,[DAUSTIN],Programmer,103,IT
+106,Valli,[VPATABAL],Programmer,103,IT
+107,Diana,[DLORENTZ],Programmer,103,IT
+108,Nancy,[NGREENBE],Finance Manager,101,Finance
+109,Daniel,[DFAVIET],Accountant,108,Finance
+110,John,[JCHEN],Accountant,108,Finance
+111,Ismael,[ISCIARRA],Accountant,108,Finance
+112,Jose Manuel,[JMURMAN],Accountant,108,Finance
+113,Luis,[LPOPP],Accountant,108,Finance
+114,Den,[DRAPHEAL],Purchasing Manager,100,Purchasing
+115,Alexander,[AKHOO],Purchasing Clerk,114,Purchasing
+116,Shelli,[SBAIDA],Purchasing Clerk,114,Purchasing
+117,Sigal,[STOBIAS],Purchasing Clerk,114,Purchasing
+118,Guy,[GHIMURO],Purchasing Clerk,114,Purchasing
+119,Karen,[KCOLMENA],Purchasing Clerk,114,Purchasing
+120,Matthew,[MWEISS],Stock Manager,100,Shipping
+121,Adam,[AFRIPP],Stock Manager,100,Shipping
+122,Payam,[PKAUFLIN],Stock Manager,100,Shipping
+123,Shanta,[SVOLLMAN],Stock Manager,100,Shipping
+124,Kevin,[KMOURGOS],Stock Manager,100,Shipping
+125,Julia,[JNAYER],Stock Clerk,120,Shipping
+126,Irene,[IMIKKILI],Stock Clerk,120,Shipping
+127,James,[JLANDRY],Stock Clerk,120,Shipping
+129,Laura,[LBISSOT@],Stock Clerk,121,Shipping
+131,James,[JAMRLOW],Stock Clerk,121,Shipping
+132,TJ,[TJOLSON],Stock Clerk,121,Shipping
+133,Jason,[JMALLIN],Stock Clerk,122,Shipping
+134,Michael,[MROGERS],Stock Clerk,122,Shipping
+135,Ki,[KGEE],Stock Clerk,122,Shipping
+136,Hazel,[HPHILTAN],Stock Clerk,122,Shipping
+137,Renske,[RLADWIG],Stock Clerk,123,Shipping
+138,Stephen,[SSTILES],Stock Clerk,123,Shipping
+139,John,[JSEO],Stock Clerk,123,Shipping
+140,Joshua,[JPATEL],Stock Clerk,123,Shipping
+198,Donald,[DOCONNEL],Shipping Clerk,124,Shipping
+199,Douglas,[DGRANT],Shipping Clerk,124,Shipping
+200,Jennifer,[JWHALEN],Administration Assistant,101,Administration
+201,Michael,[MHARTSTE],Marketing Manager,100,Marketing
+202,Pat,[PFAY],Marketing Representative,201,Marketing
+203,Susan,[SMAVRIS],Human Resources Representative,101,Human Resources
+204,Hermann,[HBAER],Public Relations Representative,101,Public Relations
+205,Shelley,[SHIGGINS],Accounting Manager,101,Accounting
+206,William,[WGIETZ],Public Accountant,205,Accounting
+100,Steven,[SKING],President, - ,Executive
+101,Neena,[NKOCHHAR],Administration Vice President,100,Executive
+102,Lex,[LDEHAAN],Administration Vice President,100,Executive
+103,Alexander,[AHUNOLD],Programmer,102,IT
+104,Bruce,[BERNST],Programmer,103,IT
+105,David,[DAUSTIN],Programmer,103,IT
+106,Valli,[VPATABAL],Programmer,103,IT
+107,Diana,[DLORENTZ],Programmer,103,IT
+108,Nancy,[NGREENBE],Finance Manager,101,Finance
+109,Daniel,[DFAVIET],Accountant,108,Finance
+110,John,[JCHEN],Accountant,108,Finance
+111,Ismael,[ISCIARRA],Accountant,108,Finance
+112,Jose Manuel,[JMURMAN],Accountant,108,Finance
+113,Luis,[LPOPP],Accountant,108,Finance
+114,Den,[DRAPHEAL],Purchasing Manager,100,Purchasing
+115,Alexander,[AKHOO],Purchasing Clerk,114,Purchasing
+116,Shelli,[SBAIDA],Purchasing Clerk,114,Purchasing
+117,Sigal,[STOBIAS],Purchasing Clerk,114,Purchasing
+118,Guy,[GHIMURO],Purchasing Clerk,114,Purchasing
+119,Karen,[KCOLMENA],Purchasing Clerk,114,Purchasing
+120,Matthew,[MWEISS],Stock Manager,100,Shipping
+121,Adam,[AFRIPP],Stock Manager,100,Shipping
+122,Payam,[PKAUFLIN],Stock Manager,100,Shipping
+123,Shanta,[SVOLLMAN],Stock Manager,100,Shipping
+124,Kevin,[KMOURGOS],Stock Manager,100,Shipping
+125,Julia,[JNAYER],Stock Clerk,120,Shipping
+126,Irene,[IMIKKILI],Stock Clerk,120,Shipping
+127,James,[JLANDRY],Stock Clerk,120,Shipping
+129,Laura,[LBISSOT@],Stock Clerk,121,Shipping
+131,James,[JAMRLOW],Stock Clerk,121,Shipping
+132,TJ,[TJOLSON],Stock Clerk,121,Shipping
+133,Jason,[JMALLIN],Stock Clerk,122,Shipping
+134,Michael,[MROGERS],Stock Clerk,122,Shipping
+135,Ki,[KGEE],Stock Clerk,122,Shipping
+136,Hazel,[HPHILTAN],Stock Clerk,122,Shipping
+137,Renske,[RLADWIG],Stock Clerk,123,Shipping
+138,Stephen,[SSTILES],Stock Clerk,123,Shipping
+139,John,[JSEO],Stock Clerk,123,Shipping
+140,Joshua,[JPATEL],Stock Clerk,123,Shipping
+198,Donald,[DOCONNEL],Shipping Clerk,124,Shipping
+199,Douglas,[DGRANT],Shipping Clerk,124,Shipping
+200,Jennifer,[JWHALEN],Administration Assistant,101,Administration
+201,Michael,[MHARTSTE],Marketing Manager,100,Marketing
+202,Pat,[PFAY],Marketing Representative,201,Marketing
+203,Susan,[SMAVRIS],Human Resources Representative,101,Human Resources
+204,Hermann,[HBAER],Public Relations Representative,101,Public Relations
+205,Shelley,[SHIGGINS],Accounting Manager,101,Accounting
+206,William,[WGIETZ],Public Accountant,205,Accounting
+100,Steven,[SKING],President, - ,Executive
+101,Neena,[NKOCHHAR],Administration Vice President,100,Executive
+102,Lex,[LDEHAAN],Administration Vice President,100,Executive
+103,Alexander,[AHUNOLD],Programmer,102,IT
+104,Bruce,[BERNST],Programmer,103,IT
+105,David,[DAUSTIN],Programmer,103,IT
+106,Valli,[VPATABAL],Programmer,103,IT
+107,Diana,[DLORENTZ],Programmer,103,IT
+108,Nancy,[NGREENBE],Finance Manager,101,Finance
+109,Daniel,[DFAVIET],Accountant,108,Finance
+110,John,[JCHEN],Accountant,108,Finance
+111,Ismael,[ISCIARRA],Accountant,108,Finance
+112,Jose Manuel,[JMURMAN],Accountant,108,Finance
+113,Luis,[LPOPP],Accountant,108,Finance
+114,Den,[DRAPHEAL],Purchasing Manager,100,Purchasing
+115,Alexander,[AKHOO],Purchasing Clerk,114,Purchasing
+116,Shelli,[SBAIDA],Purchasing Clerk,114,Purchasing
+117,Sigal,[STOBIAS],Purchasing Clerk,114,Purchasing
+118,Guy,[GHIMURO],Purchasing Clerk,114,Purchasing
+119,Karen,[KCOLMENA],Purchasing Clerk,114,Purchasing
+120,Matthew,[MWEISS],Stock Manager,100,Shipping
+121,Adam,[AFRIPP],Stock Manager,100,Shipping
+122,Payam,[PKAUFLIN],Stock Manager,100,Shipping
+123,Shanta,[SVOLLMAN],Stock Manager,100,Shipping
+124,Kevin,[KMOURGOS],Stock Manager,100,Shipping
+125,Julia,[JNAYER],Stock Clerk,120,Shipping
+126,Irene,[IMIKKILI],Stock Clerk,120,Shipping
+127,James,[JLANDRY],Stock Clerk,120,Shipping
+129,Laura,[LBISSOT@],Stock Clerk,121,Shipping
+131,James,[JAMRLOW],Stock Clerk,121,Shipping
+132,TJ,[TJOLSON],Stock Clerk,121,Shipping
+133,Jason,[JMALLIN],Stock Clerk,122,Shipping
+134,Michael,[MROGERS],Stock Clerk,122,Shipping
+135,Ki,[KGEE],Stock Clerk,122,Shipping
+136,Hazel,[HPHILTAN],Stock Clerk,122,Shipping
+137,Renske,[RLADWIG],Stock Clerk,123,Shipping
+138,Stephen,[SSTILES],Stock Clerk,123,Shipping
+139,John,[JSEO],Stock Clerk,123,Shipping
+140,Joshua,[JPATEL],Stock Clerk,123,Shipping
+198,Donald,[DOCONNEL],Shipping Clerk,124,Shipping
+199,Douglas,[DGRANT],Shipping Clerk,124,Shipping
+200,Jennifer,[JWHALEN],Administration Assistant,101,Administration
+201,Michael,[MHARTSTE],Marketing Manager,100,Marketing
+202,Pat,[PFAY],Marketing Representative,201,Marketing
+203,Susan,[SMAVRIS],Human Resources Representative,101,Human Resources
+204,Hermann,[HBAER],Public Relations Representative,101,Public Relations
+205,Shelley,[SHIGGINS],Accounting Manager,101,Accounting
+206,William,[WGIETZ],Public Accountant,205,Accounting
+100,Steven,[SKING],President, - ,Executive
+101,Neena,[NKOCHHAR],Administration Vice President,100,Executive
+102,Lex,[LDEHAAN],Administration Vice President,100,Executive
+103,Alexander,[AHUNOLD],Programmer,102,IT
+104,Bruce,[BERNST],Programmer,103,IT
+105,David,[DAUSTIN],Programmer,103,IT
+106,Valli,[VPATABAL],Programmer,103,IT
+107,Diana,[DLORENTZ],Programmer,103,IT
+108,Nancy,[NGREENBE],Finance Manager,101,Finance
+109,Daniel,[DFAVIET],Accountant,108,Finance
+110,John,[JCHEN],Accountant,108,Finance
+111,Ismael,[ISCIARRA],Accountant,108,Finance
+112,Jose Manuel,[JMURMAN],Accountant,108,Finance
+113,Luis,[LPOPP],Accountant,108,Finance
+114,Den,[DRAPHEAL],Purchasing Manager,100,Purchasing
+115,Alexander,[AKHOO],Purchasing Clerk,114,Purchasing
+116,Shelli,[SBAIDA],Purchasing Clerk,114,Purchasing
+117,Sigal,[STOBIAS],Purchasing Clerk,114,Purchasing
+118,Guy,[GHIMURO],Purchasing Clerk,114,Purchasing
+119,Karen,[KCOLMENA],Purchasing Clerk,114,Purchasing
+120,Matthew,[MWEISS],Stock Manager,100,Shipping
+121,Adam,[AFRIPP],Stock Manager,100,Shipping
+122,Payam,[PKAUFLIN],Stock Manager,100,Shipping
+123,Shanta,[SVOLLMAN],Stock Manager,100,Shipping
+124,Kevin,[KMOURGOS],Stock Manager,100,Shipping
+125,Julia,[JNAYER],Stock Clerk,120,Shipping
+126,Irene,[IMIKKILI],Stock Clerk,120,Shipping
+127,James,[JLANDRY],Stock Clerk,120,Shipping
+129,Laura,[LBISSOT@],Stock Clerk,121,Shipping
+131,James,[JAMRLOW],Stock Clerk,121,Shipping
+132,TJ,[TJOLSON],Stock Clerk,121,Shipping
+133,Jason,[JMALLIN],Stock Clerk,122,Shipping
+134,Michael,[MROGERS],Stock Clerk,122,Shipping
+135,Ki,[KGEE],Stock Clerk,122,Shipping
+136,Hazel,[HPHILTAN],Stock Clerk,122,Shipping
+137,Renske,[RLADWIG],Stock Clerk,123,Shipping
+138,Stephen,[SSTILES],Stock Clerk,123,Shipping
+139,John,[JSEO],Stock Clerk,123,Shipping
+140,Joshua,[JPATEL],Stock Clerk,123,Shipping
+198,Donald,[DOCONNEL],Shipping Clerk,124,Shipping
+199,Douglas,[DGRANT],Shipping Clerk,124,Shipping
+200,Jennifer,[JWHALEN],Administration Assistant,101,Administration
+201,Michael,[MHARTSTE],Marketing Manager,100,Marketing
+202,Pat,[PFAY],Marketing Representative,201,Marketing
+203,Susan,[SMAVRIS],Human Resources Representative,101,Human Resources
+204,Hermann,[HBAER],Public Relations Representative,101,Public Relations
+205,Shelley,[SHIGGINS],Accounting Manager,101,Accounting
+206,William,[WGIETZ],Public Accountant,205,Accounting
+100,Steven,[SKING],President, - ,Executive
+101,Neena,[NKOCHHAR],Administration Vice President,100,Executive
+102,Lex,[LDEHAAN],Administration Vice President,100,Executive
+103,Alexander,[AHUNOLD],Programmer,102,IT
+104,Bruce,[BERNST],Programmer,103,IT
+105,David,[DAUSTIN],Programmer,103,IT
+106,Valli,[VPATABAL],Programmer,103,IT
+107,Diana,[DLORENTZ],Programmer,103,IT
+108,Nancy,[NGREENBE],Finance Manager,101,Finance
+109,Daniel,[DFAVIET],Accountant,108,Finance
+110,John,[JCHEN],Accountant,108,Finance
+111,Ismael,[ISCIARRA],Accountant,108,Finance
+112,Jose Manuel,[JMURMAN],Accountant,108,Finance
+113,Luis,[LPOPP],Accountant,108,Finance
+114,Den,[DRAPHEAL],Purchasing Manager,100,Purchasing
+115,Alexander,[AKHOO],Purchasing Clerk,114,Purchasing
+116,Shelli,[SBAIDA],Purchasing Clerk,114,Purchasing
+117,Sigal,[STOBIAS],Purchasing Clerk,114,Purchasing
+118,Guy,[GHIMURO],Purchasing Clerk,114,Purchasing
+119,Karen,[KCOLMENA],Purchasing Clerk,114,Purchasing
+120,Matthew,[MWEISS],Stock Manager,100,Shipping
+121,Adam,[AFRIPP],Stock Manager,100,Shipping
+122,Payam,[PKAUFLIN],Stock Manager,100,Shipping
+123,Shanta,[SVOLLMAN],Stock Manager,100,Shipping
+124,Kevin,[KMOURGOS],Stock Manager,100,Shipping
+125,Julia,[JNAYER],Stock Clerk,120,Shipping
+126,Irene,[IMIKKILI],Stock Clerk,120,Shipping
+127,James,[JLANDRY],Stock Clerk,120,Shipping
+129,Laura,[LBISSOT@],Stock Clerk,121,Shipping
+131,James,[JAMRLOW],Stock Clerk,121,Shipping
+132,TJ,[TJOLSON],Stock Clerk,121,Shipping
+133,Jason,[JMALLIN],Stock Clerk,122,Shipping
+134,Michael,[MROGERS],Stock Clerk,122,Shipping
+135,Ki,[KGEE],Stock Clerk,122,Shipping
+136,Hazel,[HPHILTAN],Stock Clerk,122,Shipping
+137,Renske,[RLADWIG],Stock Clerk,123,Shipping
+138,Stephen,[SSTILES],Stock Clerk,123,Shipping
+139,John,[JSEO],Stock Clerk,123,Shipping
+140,Joshua,[JPATEL],Stock Clerk,123,Shipping
+198,Donald,[DOCONNEL],Shipping Clerk,124,Shipping
+199,Douglas,[DGRANT],Shipping Clerk,124,Shipping
+200,Jennifer,[JWHALEN],Administration Assistant,101,Administration
+201,Michael,[MHARTSTE],Marketing Manager,100,Marketing
+202,Pat,[PFAY],Marketing Representative,201,Marketing
+203,Susan,[SMAVRIS],Human Resources Representative,101,Human Resources
+204,Hermann,[HBAER],Public Relations Representative,101,Public Relations
+205,Shelley,[SHIGGINS],Accounting Manager,101,Accounting
+206,William,[WGIETZ],Public Accountant,205,Accounting
+100,Steven,[SKING],President, - ,Executive
+101,Neena,[NKOCHHAR],Administration Vice President,100,Executive
+102,Lex,[LDEHAAN],Administration Vice President,100,Executive
+103,Alexander,[AHUNOLD],Programmer,102,IT
+104,Bruce,[BERNST],Programmer,103,IT
+105,David,[DAUSTIN],Programmer,103,IT
+106,Valli,[VPATABAL],Programmer,103,IT
+107,Diana,[DLORENTZ],Programmer,103,IT
+108,Nancy,[NGREENBE],Finance Manager,101,Finance
+109,Daniel,[DFAVIET],Accountant,108,Finance
+110,John,[JCHEN],Accountant,108,Finance
+111,Ismael,[ISCIARRA],Accountant,108,Finance
+112,Jose Manuel,[JMURMAN],Accountant,108,Finance
+113,Luis,[LPOPP],Accountant,108,Finance
+114,Den,[DRAPHEAL],Purchasing Manager,100,Purchasing
+115,Alexander,[AKHOO],Purchasing Clerk,114,Purchasing
+116,Shelli,[SBAIDA],Purchasing Clerk,114,Purchasing
+117,Sigal,[STOBIAS],Purchasing Clerk,114,Purchasing
+118,Guy,[GHIMURO],Purchasing Clerk,114,Purchasing
+119,Karen,[KCOLMENA],Purchasing Clerk,114,Purchasing
+120,Matthew,[MWEISS],Stock Manager,100,Shipping
+121,Adam,[AFRIPP],Stock Manager,100,Shipping
+122,Payam,[PKAUFLIN],Stock Manager,100,Shipping
+123,Shanta,[SVOLLMAN],Stock Manager,100,Shipping
+124,Kevin,[KMOURGOS],Stock Manager,100,Shipping
+125,Julia,[JNAYER],Stock Clerk,120,Shipping
+126,Irene,[IMIKKILI],Stock Clerk,120,Shipping
+127,James,[JLANDRY],Stock Clerk,120,Shipping
+129,Laura,[LBISSOT@],Stock Clerk,121,Shipping
+131,James,[JAMRLOW],Stock Clerk,121,Shipping
+132,TJ,[TJOLSON],Stock Clerk,121,Shipping
+133,Jason,[JMALLIN],Stock Clerk,122,Shipping
+134,Michael,[MROGERS],Stock Clerk,122,Shipping
+135,Ki,[KGEE],Stock Clerk,122,Shipping
+136,Hazel,[HPHILTAN],Stock Clerk,122,Shipping
+137,Renske,[RLADWIG],Stock Clerk,123,Shipping
+138,Stephen,[SSTILES],Stock Clerk,123,Shipping
+139,John,[JSEO],Stock Clerk,123,Shipping
+140,Joshua,[JPATEL],Stock Clerk,123,Shipping
+198,Donald,[DOCONNEL],Shipping Clerk,124,Shipping
+199,Douglas,[DGRANT],Shipping Clerk,124,Shipping
+200,Jennifer,[JWHALEN],Administration Assistant,101,Administration
+201,Michael,[MHARTSTE],Marketing Manager,100,Marketing
+202,Pat,[PFAY],Marketing Representative,201,Marketing
+203,Susan,[SMAVRIS],Human Resources Representative,101,Human Resources
+204,Hermann,[HBAER],Public Relations Representative,101,Public Relations
+205,Shelley,[SHIGGINS],Accounting Manager,101,Accounting
+206,William,[WGIETZ],Public Accountant,205,Accounting
+100,Steven,[SKING],President, - ,Executive
+101,Neena,[NKOCHHAR],Administration Vice President,100,Executive
+102,Lex,[LDEHAAN],Administration Vice President,100,Executive
+103,Alexander,[AHUNOLD],Programmer,102,IT
+104,Bruce,[BERNST],Programmer,103,IT
+105,David,[DAUSTIN],Programmer,103,IT
+106,Valli,[VPATABAL],Programmer,103,IT
+107,Diana,[DLORENTZ],Programmer,103,IT
+108,Nancy,[NGREENBE],Finance Manager,101,Finance
+109,Daniel,[DFAVIET],Accountant,108,Finance
+110,John,[JCHEN],Accountant,108,Finance
+111,Ismael,[ISCIARRA],Accountant,108,Finance
+112,Jose Manuel,[JMURMAN],Accountant,108,Finance
+113,Luis,[LPOPP],Accountant,108,Finance
+114,Den,[DRAPHEAL],Purchasing Manager,100,Purchasing
+115,Alexander,[AKHOO],Purchasing Clerk,114,Purchasing
+116,Shelli,[SBAIDA],Purchasing Clerk,114,Purchasing
+117,Sigal,[STOBIAS],Purchasing Clerk,114,Purchasing
+118,Guy,[GHIMURO],Purchasing Clerk,114,Purchasing
+119,Karen,[KCOLMENA],Purchasing Clerk,114,Purchasing
+120,Matthew,[MWEISS],Stock Manager,100,Shipping
+121,Adam,[AFRIPP],Stock Manager,100,Shipping
+122,Payam,[PKAUFLIN],Stock Manager,100,Shipping
+123,Shanta,[SVOLLMAN],Stock Manager,100,Shipping
+124,Kevin,[KMOURGOS],Stock Manager,100,Shipping
+125,Julia,[JNAYER],Stock Clerk,120,Shipping
+126,Irene,[IMIKKILI],Stock Clerk,120,Shipping
+127,James,[JLANDRY],Stock Clerk,120,Shipping
+129,Laura,[LBISSOT@],Stock Clerk,121,Shipping
+131,James,[JAMRLOW],Stock Clerk,121,Shipping
+132,TJ,[TJOLSON],Stock Clerk,121,Shipping
+133,Jason,[JMALLIN],Stock Clerk,122,Shipping
+134,Michael,[MROGERS],Stock Clerk,122,Shipping
+135,Ki,[KGEE],Stock Clerk,122,Shipping
+136,Hazel,[HPHILTAN],Stock Clerk,122,Shipping
+137,Renske,[RLADWIG],Stock Clerk,123,Shipping
+138,Stephen,[SSTILES],Stock Clerk,123,Shipping
+139,John,[JSEO],Stock Clerk,123,Shipping
+140,Joshua,[JPATEL],Stock Clerk,123,Shipping
+198,Donald,[DOCONNEL],Shipping Clerk,124,Shipping
+199,Douglas,[DGRANT],Shipping Clerk,124,Shipping
+200,Jennifer,[JWHALEN],Administration Assistant,101,Administration
+201,Michael,[MHARTSTE],Marketing Manager,100,Marketing
+202,Pat,[PFAY],Marketing Representative,201,Marketing
+203,Susan,[SMAVRIS],Human Resources Representative,101,Human Resources
+204,Hermann,[HBAER],Public Relations Representative,101,Public Relations
+205,Shelley,[SHIGGINS],Accounting Manager,101,Accounting
+206,William,[WGIETZ],Public Accountant,205,Accounting
+100,Steven,[SKING],President, - ,Executive
+101,Neena,[NKOCHHAR],Administration Vice President,100,Executive
+102,Lex,[LDEHAAN],Administration Vice President,100,Executive
+103,Alexander,[AHUNOLD],Programmer,102,IT
+104,Bruce,[BERNST],Programmer,103,IT
+105,David,[DAUSTIN],Programmer,103,IT
+106,Valli,[VPATABAL],Programmer,103,IT
+107,Diana,[DLORENTZ],Programmer,103,IT
+108,Nancy,[NGREENBE],Finance Manager,101,Finance
+109,Daniel,[DFAVIET],Accountant,108,Finance
+110,John,[JCHEN],Accountant,108,Finance
+111,Ismael,[ISCIARRA],Accountant,108,Finance
+112,Jose Manuel,[JMURMAN],Accountant,108,Finance
+113,Luis,[LPOPP],Accountant,108,Finance
+114,Den,[DRAPHEAL],Purchasing Manager,100,Purchasing
+115,Alexander,[AKHOO],Purchasing Clerk,114,Purchasing
+116,Shelli,[SBAIDA],Purchasing Clerk,114,Purchasing
+117,Sigal,[STOBIAS],Purchasing Clerk,114,Purchasing
+118,Guy,[GHIMURO],Purchasing Clerk,114,Purchasing
+119,Karen,[KCOLMENA],Purchasing Clerk,114,Purchasing
+120,Matthew,[MWEISS],Stock Manager,100,Shipping
+121,Adam,[AFRIPP],Stock Manager,100,Shipping
+122,Payam,[PKAUFLIN],Stock Manager,100,Shipping
+123,Shanta,[SVOLLMAN],Stock Manager,100,Shipping
+124,Kevin,[KMOURGOS],Stock Manager,100,Shipping
+125,Julia,[JNAYER],Stock Clerk,120,Shipping
+126,Irene,[IMIKKILI],Stock Clerk,120,Shipping
+127,James,[JLANDRY],Stock Clerk,120,Shipping
+129,Laura,[LBISSOT@],Stock Clerk,121,Shipping
+131,James,[JAMRLOW],Stock Clerk,121,Shipping
+132,TJ,[TJOLSON],Stock Clerk,121,Shipping
+133,Jason,[JMALLIN],Stock Clerk,122,Shipping
+134,Michael,[MROGERS],Stock Clerk,122,Shipping
+135,Ki,[KGEE],Stock Clerk,122,Shipping
+136,Hazel,[HPHILTAN],Stock Clerk,122,Shipping
+137,Renske,[RLADWIG],Stock Clerk,123,Shipping
+138,Stephen,[SSTILES],Stock Clerk,123,Shipping
+139,John,[JSEO],Stock Clerk,123,Shipping
+140,Joshua,[JPATEL],Stock Clerk,123,Shipping
+198,Donald,[DOCONNEL],Shipping Clerk,124,Shipping
+199,Douglas,[DGRANT],Shipping Clerk,124,Shipping
+200,Jennifer,[JWHALEN],Administration Assistant,101,Administration
+201,Michael,[MHARTSTE],Marketing Manager,100,Marketing
+202,Pat,[PFAY],Marketing Representative,201,Marketing
+203,Susan,[SMAVRIS],Human Resources Representative,101,Human Resources
+204,Hermann,[HBAER],Public Relations Representative,101,Public Relations
+205,Shelley,[SHIGGINS],Accounting Manager,101,Accounting
+206,William,[WGIETZ],Public Accountant,205,Accounting
+100,Steven,[SKING],President, - ,Executive
+101,Neena,[NKOCHHAR],Administration Vice President,100,Executive
+102,Lex,[LDEHAAN],Administration Vice President,100,Executive
+103,Alexander,[AHUNOLD],Programmer,102,IT
+104,Bruce,[BERNST],Programmer,103,IT
+105,David,[DAUSTIN],Programmer,103,IT
+106,Valli,[VPATABAL],Programmer,103,IT
+107,Diana,[DLORENTZ],Programmer,103,IT
+108,Nancy,[NGREENBE],Finance Manager,101,Finance
+109,Daniel,[DFAVIET],Accountant,108,Finance
+110,John,[JCHEN],Accountant,108,Finance
+111,Ismael,[ISCIARRA],Accountant,108,Finance
+112,Jose Manuel,[JMURMAN],Accountant,108,Finance
+113,Luis,[LPOPP],Accountant,108,Finance
+114,Den,[DRAPHEAL],Purchasing Manager,100,Purchasing
+115,Alexander,[AKHOO],Purchasing Clerk,114,Purchasing
+116,Shelli,[SBAIDA],Purchasing Clerk,114,Purchasing
+117,Sigal,[STOBIAS],Purchasing Clerk,114,Purchasing
+118,Guy,[GHIMURO],Purchasing Clerk,114,Purchasing
+119,Karen,[KCOLMENA],Purchasing Clerk,114,Purchasing
+120,Matthew,[MWEISS],Stock Manager,100,Shipping
+121,Adam,[AFRIPP],Stock Manager,100,Shipping
+122,Payam,[PKAUFLIN],Stock Manager,100,Shipping
+123,Shanta,[SVOLLMAN],Stock Manager,100,Shipping
+124,Kevin,[KMOURGOS],Stock Manager,100,Shipping
+125,Julia,[JNAYER],Stock Clerk,120,Shipping
+126,Irene,[IMIKKILI],Stock Clerk,120,Shipping
+127,James,[JLANDRY],Stock Clerk,120,Shipping
+129,Laura,[LBISSOT@],Stock Clerk,121,Shipping
+131,James,[JAMRLOW],Stock Clerk,121,Shipping
+132,TJ,[TJOLSON],Stock Clerk,121,Shipping
+133,Jason,[JMALLIN],Stock Clerk,122,Shipping
+134,Michael,[MROGERS],Stock Clerk,122,Shipping
+135,Ki,[KGEE],Stock Clerk,122,Shipping
+136,Hazel,[HPHILTAN],Stock Clerk,122,Shipping
+137,Renske,[RLADWIG],Stock Clerk,123,Shipping
+138,Stephen,[SSTILES],Stock Clerk,123,Shipping
+139,John,[JSEO],Stock Clerk,123,Shipping
+140,Joshua,[JPATEL],Stock Clerk,123,Shipping
+198,Donald,[DOCONNEL],Shipping Clerk,124,Shipping
+199,Douglas,[DGRANT],Shipping Clerk,124,Shipping
+200,Jennifer,[JWHALEN],Administration Assistant,101,Administration
+201,Michael,[MHARTSTE],Marketing Manager,100,Marketing
+202,Pat,[PFAY],Marketing Representative,201,Marketing
+203,Susan,[SMAVRIS],Human Resources Representative,101,Human Resources
+204,Hermann,[HBAER],Public Relations Representative,101,Public Relations
+205,Shelley,[SHIGGINS],Accounting Manager,101,Accounting
+206,William,[WGIETZ],Public Accountant,205,Accounting
+100,Steven,[SKING],President, - ,Executive
+101,Neena,[NKOCHHAR],Administration Vice President,100,Executive
+102,Lex,[LDEHAAN],Administration Vice President,100,Executive
+103,Alexander,[AHUNOLD],Programmer,102,IT
+104,Bruce,[BERNST],Programmer,103,IT
+105,David,[DAUSTIN],Programmer,103,IT
+106,Valli,[VPATABAL],Programmer,103,IT
+107,Diana,[DLORENTZ],Programmer,103,IT
+108,Nancy,[NGREENBE],Finance Manager,101,Finance
+109,Daniel,[DFAVIET],Accountant,108,Finance
+110,John,[JCHEN],Accountant,108,Finance
+111,Ismael,[ISCIARRA],Accountant,108,Finance
+112,Jose Manuel,[JMURMAN],Accountant,108,Finance
+113,Luis,[LPOPP],Accountant,108,Finance
+114,Den,[DRAPHEAL],Purchasing Manager,100,Purchasing
+115,Alexander,[AKHOO],Purchasing Clerk,114,Purchasing
+116,Shelli,[SBAIDA],Purchasing Clerk,114,Purchasing
+117,Sigal,[STOBIAS],Purchasing Clerk,114,Purchasing
+118,Guy,[GHIMURO],Purchasing Clerk,114,Purchasing
+119,Karen,[KCOLMENA],Purchasing Clerk,114,Purchasing
+120,Matthew,[MWEISS],Stock Manager,100,Shipping
+121,Adam,[AFRIPP],Stock Manager,100,Shipping
+122,Payam,[PKAUFLIN],Stock Manager,100,Shipping
+123,Shanta,[SVOLLMAN],Stock Manager,100,Shipping
+124,Kevin,[KMOURGOS],Stock Manager,100,Shipping
+125,Julia,[JNAYER],Stock Clerk,120,Shipping
+126,Irene,[IMIKKILI],Stock Clerk,120,Shipping
+127,James,[JLANDRY],Stock Clerk,120,Shipping
+129,Laura,[LBISSOT@],Stock Clerk,121,Shipping
+131,James,[JAMRLOW],Stock Clerk,121,Shipping
+132,TJ,[TJOLSON],Stock Clerk,121,Shipping
+133,Jason,[JMALLIN],Stock Clerk,122,Shipping
+134,Michael,[MROGERS],Stock Clerk,122,Shipping
+135,Ki,[KGEE],Stock Clerk,122,Shipping
+136,Hazel,[HPHILTAN],Stock Clerk,122,Shipping
+137,Renske,[RLADWIG],Stock Clerk,123,Shipping
+138,Stephen,[SSTILES],Stock Clerk,123,Shipping
+139,John,[JSEO],Stock Clerk,123,Shipping
+140,Joshua,[JPATEL],Stock Clerk,123,Shipping
+198,Donald,[DOCONNEL],Shipping Clerk,124,Shipping
+199,Douglas,[DGRANT],Shipping Clerk,124,Shipping
+200,Jennifer,[JWHALEN],Administration Assistant,101,Administration
+201,Michael,[MHARTSTE],Marketing Manager,100,Marketing
+202,Pat,[PFAY],Marketing Representative,201,Marketing
+203,Susan,[SMAVRIS],Human Resources Representative,101,Human Resources
+204,Hermann,[HBAER],Public Relations Representative,101,Public Relations
+205,Shelley,[SHIGGINS],Accounting Manager,101,Accounting
+206,William,[WGIETZ],Public Accountant,205,Accounting
+100,Steven,[SKING],President, - ,Executive
+101,Neena,[NKOCHHAR],Administration Vice President,100,Executive
+102,Lex,[LDEHAAN],Administration Vice President,100,Executive
+103,Alexander,[AHUNOLD],Programmer,102,IT
+104,Bruce,[BERNST],Programmer,103,IT
+105,David,[DAUSTIN],Programmer,103,IT
+106,Valli,[VPATABAL],Programmer,103,IT
+107,Diana,[DLORENTZ],Programmer,103,IT
+108,Nancy,[NGREENBE],Finance Manager,101,Finance
+109,Daniel,[DFAVIET],Accountant,108,Finance
+110,John,[JCHEN],Accountant,108,Finance
+111,Ismael,[ISCIARRA],Accountant,108,Finance
+112,Jose Manuel,[JMURMAN],Accountant,108,Finance
+113,Luis,[LPOPP],Accountant,108,Finance
+114,Den,[DRAPHEAL],Purchasing Manager,100,Purchasing
+115,Alexander,[AKHOO],Purchasing Clerk,114,Purchasing
+116,Shelli,[SBAIDA],Purchasing Clerk,114,Purchasing
+117,Sigal,[STOBIAS],Purchasing Clerk,114,Purchasing
+118,Guy,[GHIMURO],Purchasing Clerk,114,Purchasing
+119,Karen,[KCOLMENA],Purchasing Clerk,114,Purchasing
+120,Matthew,[MWEISS],Stock Manager,100,Shipping
+121,Adam,[AFRIPP],Stock Manager,100,Shipping
+122,Payam,[PKAUFLIN],Stock Manager,100,Shipping
+123,Shanta,[SVOLLMAN],Stock Manager,100,Shipping
+124,Kevin,[KMOURGOS],Stock Manager,100,Shipping
+125,Julia,[JNAYER],Stock Clerk,120,Shipping
+126,Irene,[IMIKKILI],Stock Clerk,120,Shipping
+127,James,[JLANDRY],Stock Clerk,120,Shipping
+129,Laura,[LBISSOT@],Stock Clerk,121,Shipping
+131,James,[JAMRLOW],Stock Clerk,121,Shipping
+132,TJ,[TJOLSON],Stock Clerk,121,Shipping
+133,Jason,[JMALLIN],Stock Clerk,122,Shipping
+134,Michael,[MROGERS],Stock Clerk,122,Shipping
+135,Ki,[KGEE],Stock Clerk,122,Shipping
+136,Hazel,[HPHILTAN],Stock Clerk,122,Shipping
+137,Renske,[RLADWIG],Stock Clerk,123,Shipping
+138,Stephen,[SSTILES],Stock Clerk,123,Shipping
+139,John,[JSEO],Stock Clerk,123,Shipping
+140,Joshua,[JPATEL],Stock Clerk,123,Shipping
+198,Donald,[DOCONNEL],Shipping Clerk,124,Shipping
+199,Douglas,[DGRANT],Shipping Clerk,124,Shipping
+200,Jennifer,[JWHALEN],Administration Assistant,101,Administration
+201,Michael,[MHARTSTE],Marketing Manager,100,Marketing
+202,Pat,[PFAY],Marketing Representative,201,Marketing
+203,Susan,[SMAVRIS],Human Resources Representative,101,Human Resources
+204,Hermann,[HBAER],Public Relations Representative,101,Public Relations
+205,Shelley,[SHIGGINS],Accounting Manager,101,Accounting
+206,William,[WGIETZ],Public Accountant,205,Accounting
+100,Steven,[SKING],President, - ,Executive
+101,Neena,[NKOCHHAR],Administration Vice President,100,Executive
+102,Lex,[LDEHAAN],Administration Vice President,100,Executive
+103,Alexander,[AHUNOLD],Programmer,102,IT
+104,Bruce,[BERNST],Programmer,103,IT
+105,David,[DAUSTIN],Programmer,103,IT
+106,Valli,[VPATABAL],Programmer,103,IT
+107,Diana,[DLORENTZ],Programmer,103,IT
+108,Nancy,[NGREENBE],Finance Manager,101,Finance
+109,Daniel,[DFAVIET],Accountant,108,Finance
+110,John,[JCHEN],Accountant,108,Finance
+111,Ismael,[ISCIARRA],Accountant,108,Finance
+112,Jose Manuel,[JMURMAN],Accountant,108,Finance
+113,Luis,[LPOPP],Accountant,108,Finance
+114,Den,[DRAPHEAL],Purchasing Manager,100,Purchasing
+115,Alexander,[AKHOO],Purchasing Clerk,114,Purchasing
+116,Shelli,[SBAIDA],Purchasing Clerk,114,Purchasing
+117,Sigal,[STOBIAS],Purchasing Clerk,114,Purchasing
+118,Guy,[GHIMURO],Purchasing Clerk,114,Purchasing
+119,Karen,[KCOLMENA],Purchasing Clerk,114,Purchasing
+120,Matthew,[MWEISS],Stock Manager,100,Shipping
+121,Adam,[AFRIPP],Stock Manager,100,Shipping
+122,Payam,[PKAUFLIN],Stock Manager,100,Shipping
+123,Shanta,[SVOLLMAN],Stock Manager,100,Shipping
+124,Kevin,[KMOURGOS],Stock Manager,100,Shipping
+125,Julia,[JNAYER],Stock Clerk,120,Shipping
+126,Irene,[IMIKKILI],Stock Clerk,120,Shipping
+127,James,[JLANDRY],Stock Clerk,120,Shipping
+129,Laura,[LBISSOT@],Stock Clerk,121,Shipping
+131,James,[JAMRLOW],Stock Clerk,121,Shipping
+132,TJ,[TJOLSON],Stock Clerk,121,Shipping
+133,Jason,[JMALLIN],Stock Clerk,122,Shipping
+134,Michael,[MROGERS],Stock Clerk,122,Shipping
+135,Ki,[KGEE],Stock Clerk,122,Shipping
+136,Hazel,[HPHILTAN],Stock Clerk,122,Shipping
+137,Renske,[RLADWIG],Stock Clerk,123,Shipping
+138,Stephen,[SSTILES],Stock Clerk,123,Shipping
+139,John,[JSEO],Stock Clerk,123,Shipping
+140,Joshua,[JPATEL],Stock Clerk,123,Shipping
+198,Donald,[DOCONNEL],Shipping Clerk,124,Shipping
+199,Douglas,[DGRANT],Shipping Clerk,124,Shipping
+200,Jennifer,[JWHALEN],Administration Assistant,101,Administration
+201,Michael,[MHARTSTE],Marketing Manager,100,Marketing
+202,Pat,[PFAY],Marketing Representative,201,Marketing
+203,Susan,[SMAVRIS],Human Resources Representative,101,Human Resources
+204,Hermann,[HBAER],Public Relations Representative,101,Public Relations
+205,Shelley,[SHIGGINS],Accounting Manager,101,Accounting
+206,William,[WGIETZ],Public Accountant,205,Accounting
+100,Steven,[SKING],President, - ,Executive
+101,Neena,[NKOCHHAR],Administration Vice President,100,Executive
+102,Lex,[LDEHAAN],Administration Vice President,100,Executive
+103,Alexander,[AHUNOLD],Programmer,102,IT
+104,Bruce,[BERNST],Programmer,103,IT
+105,David,[DAUSTIN],Programmer,103,IT
+106,Valli,[VPATABAL],Programmer,103,IT
+107,Diana,[DLORENTZ],Programmer,103,IT
+108,Nancy,[NGREENBE],Finance Manager,101,Finance
+109,Daniel,[DFAVIET],Accountant,108,Finance
+110,John,[JCHEN],Accountant,108,Finance
+111,Ismael,[ISCIARRA],Accountant,108,Finance
+112,Jose Manuel,[JMURMAN],Accountant,108,Finance
+113,Luis,[LPOPP],Accountant,108,Finance
+114,Den,[DRAPHEAL],Purchasing Manager,100,Purchasing
+115,Alexander,[AKHOO],Purchasing Clerk,114,Purchasing
+116,Shelli,[SBAIDA],Purchasing Clerk,114,Purchasing
+117,Sigal,[STOBIAS],Purchasing Clerk,114,Purchasing
+118,Guy,[GHIMURO],Purchasing Clerk,114,Purchasing
+119,Karen,[KCOLMENA],Purchasing Clerk,114,Purchasing
+120,Matthew,[MWEISS],Stock Manager,100,Shipping
+121,Adam,[AFRIPP],Stock Manager,100,Shipping
+122,Payam,[PKAUFLIN],Stock Manager,100,Shipping
+123,Shanta,[SVOLLMAN],Stock Manager,100,Shipping
+124,Kevin,[KMOURGOS],Stock Manager,100,Shipping
+125,Julia,[JNAYER],Stock Clerk,120,Shipping
+126,Irene,[IMIKKILI],Stock Clerk,120,Shipping
+127,James,[JLANDRY],Stock Clerk,120,Shipping
+129,Laura,[LBISSOT@],Stock Clerk,121,Shipping
+131,James,[JAMRLOW],Stock Clerk,121,Shipping
+132,TJ,[TJOLSON],Stock Clerk,121,Shipping
+133,Jason,[JMALLIN],Stock Clerk,122,Shipping
+134,Michael,[MROGERS],Stock Clerk,122,Shipping
+135,Ki,[KGEE],Stock Clerk,122,Shipping
+136,Hazel,[HPHILTAN],Stock Clerk,122,Shipping
+137,Renske,[RLADWIG],Stock Clerk,123,Shipping
+138,Stephen,[SSTILES],Stock Clerk,123,Shipping
+139,John,[JSEO],Stock Clerk,123,Shipping
+140,Joshua,[JPATEL],Stock Clerk,123,Shipping
+198,Donald,[DOCONNEL],Shipping Clerk,124,Shipping
+199,Douglas,[DGRANT],Shipping Clerk,124,Shipping
+200,Jennifer,[JWHALEN],Administration Assistant,101,Administration
+201,Michael,[MHARTSTE],Marketing Manager,100,Marketing
+202,Pat,[PFAY],Marketing Representative,201,Marketing
+203,Susan,[SMAVRIS],Human Resources Representative,101,Human Resources
+204,Hermann,[HBAER],Public Relations Representative,101,Public Relations
+205,Shelley,[SHIGGINS],Accounting Manager,101,Accounting
+206,William,[WGIETZ],Public Accountant,205,Accounting
+100,Steven,[SKING],President, - ,Executive
+101,Neena,[NKOCHHAR],Administration Vice President,100,Executive
+102,Lex,[LDEHAAN],Administration Vice President,100,Executive
+103,Alexander,[AHUNOLD],Programmer,102,IT
+104,Bruce,[BERNST],Programmer,103,IT
+105,David,[DAUSTIN],Programmer,103,IT
+106,Valli,[VPATABAL],Programmer,103,IT
+107,Diana,[DLORENTZ],Programmer,103,IT
+108,Nancy,[NGREENBE],Finance Manager,101,Finance
+109,Daniel,[DFAVIET],Accountant,108,Finance
+110,John,[JCHEN],Accountant,108,Finance
+111,Ismael,[ISCIARRA],Accountant,108,Finance
+112,Jose Manuel,[JMURMAN],Accountant,108,Finance
+113,Luis,[LPOPP],Accountant,108,Finance
+114,Den,[DRAPHEAL],Purchasing Manager,100,Purchasing
+115,Alexander,[AKHOO],Purchasing Clerk,114,Purchasing
+116,Shelli,[SBAIDA],Purchasing Clerk,114,Purchasing
+117,Sigal,[STOBIAS],Purchasing Clerk,114,Purchasing
+118,Guy,[GHIMURO],Purchasing Clerk,114,Purchasing
+119,Karen,[KCOLMENA],Purchasing Clerk,114,Purchasing
+120,Matthew,[MWEISS],Stock Manager,100,Shipping
+121,Adam,[AFRIPP],Stock Manager,100,Shipping
+122,Payam,[PKAUFLIN],Stock Manager,100,Shipping
+123,Shanta,[SVOLLMAN],Stock Manager,100,Shipping
+124,Kevin,[KMOURGOS],Stock Manager,100,Shipping
+125,Julia,[JNAYER],Stock Clerk,120,Shipping
+126,Irene,[IMIKKILI],Stock Clerk,120,Shipping
+127,James,[JLANDRY],Stock Clerk,120,Shipping
+129,Laura,[LBISSOT@],Stock Clerk,121,Shipping
+131,James,[JAMRLOW],Stock Clerk,121,Shipping
+132,TJ,[TJOLSON],Stock Clerk,121,Shipping
+133,Jason,[JMALLIN],Stock Clerk,122,Shipping
+134,Michael,[MROGERS],Stock Clerk,122,Shipping
+135,Ki,[KGEE],Stock Clerk,122,Shipping
+136,Hazel,[HPHILTAN],Stock Clerk,122,Shipping
+137,Renske,[RLADWIG],Stock Clerk,123,Shipping
+138,Stephen,[SSTILES],Stock Clerk,123,Shipping
+139,John,[JSEO],Stock Clerk,123,Shipping
+140,Joshua,[JPATEL],Stock Clerk,123,Shipping
+198,Donald,[DOCONNEL],Shipping Clerk,124,Shipping
+199,Douglas,[DGRANT],Shipping Clerk,124,Shipping
+200,Jennifer,[JWHALEN],Administration Assistant,101,Administration
+201,Michael,[MHARTSTE],Marketing Manager,100,Marketing
+202,Pat,[PFAY],Marketing Representative,201,Marketing
+203,Susan,[SMAVRIS],Human Resources Representative,101,Human Resources
+204,Hermann,[HBAER],Public Relations Representative,101,Public Relations
+205,Shelley,[SHIGGINS],Accounting Manager,101,Accounting
+206,William,[WGIETZ],Public Accountant,205,Accounting
+100,Steven,[SKING],President, - ,Executive
+101,Neena,[NKOCHHAR],Administration Vice President,100,Executive
+102,Lex,[LDEHAAN],Administration Vice President,100,Executive
+103,Alexander,[AHUNOLD],Programmer,102,IT
+104,Bruce,[BERNST],Programmer,103,IT
+105,David,[DAUSTIN],Programmer,103,IT
+106,Valli,[VPATABAL],Programmer,103,IT
+107,Diana,[DLORENTZ],Programmer,103,IT
+108,Nancy,[NGREENBE],Finance Manager,101,Finance
+109,Daniel,[DFAVIET],Accountant,108,Finance
+110,John,[JCHEN],Accountant,108,Finance
+111,Ismael,[ISCIARRA],Accountant,108,Finance
+112,Jose Manuel,[JMURMAN],Accountant,108,Finance
+113,Luis,[LPOPP],Accountant,108,Finance
+114,Den,[DRAPHEAL],Purchasing Manager,100,Purchasing
+115,Alexander,[AKHOO],Purchasing Clerk,114,Purchasing
+116,Shelli,[SBAIDA],Purchasing Clerk,114,Purchasing
+117,Sigal,[STOBIAS],Purchasing Clerk,114,Purchasing
+118,Guy,[GHIMURO],Purchasing Clerk,114,Purchasing
+119,Karen,[KCOLMENA],Purchasing Clerk,114,Purchasing
+120,Matthew,[MWEISS],Stock Manager,100,Shipping
+121,Adam,[AFRIPP],Stock Manager,100,Shipping
+122,Payam,[PKAUFLIN],Stock Manager,100,Shipping
+123,Shanta,[SVOLLMAN],Stock Manager,100,Shipping
+124,Kevin,[KMOURGOS],Stock Manager,100,Shipping
+125,Julia,[JNAYER],Stock Clerk,120,Shipping
+126,Irene,[IMIKKILI],Stock Clerk,120,Shipping
+127,James,[JLANDRY],Stock Clerk,120,Shipping
+129,Laura,[LBISSOT@],Stock Clerk,121,Shipping
+131,James,[JAMRLOW],Stock Clerk,121,Shipping
+132,TJ,[TJOLSON],Stock Clerk,121,Shipping
+133,Jason,[JMALLIN],Stock Clerk,122,Shipping
+134,Michael,[MROGERS],Stock Clerk,122,Shipping
+135,Ki,[KGEE],Stock Clerk,122,Shipping
+136,Hazel,[HPHILTAN],Stock Clerk,122,Shipping
+137,Renske,[RLADWIG],Stock Clerk,123,Shipping
+138,Stephen,[SSTILES],Stock Clerk,123,Shipping
+139,John,[JSEO],Stock Clerk,123,Shipping
+140,Joshua,[JPATEL],Stock Clerk,123,Shipping
+198,Donald,[DOCONNEL],Shipping Clerk,124,Shipping
+199,Douglas,[DGRANT],Shipping Clerk,124,Shipping
+200,Jennifer,[JWHALEN],Administration Assistant,101,Administration
+201,Michael,[MHARTSTE],Marketing Manager,100,Marketing
+202,Pat,[PFAY],Marketing Representative,201,Marketing
+203,Susan,[SMAVRIS],Human Resources Representative,101,Human Resources
+204,Hermann,[HBAER],Public Relations Representative,101,Public Relations
+205,Shelley,[SHIGGINS],Accounting Manager,101,Accounting
+206,William,[WGIETZ],Public Accountant,205,Accounting
+100,Steven,[SKING],President, - ,Executive
+101,Neena,[NKOCHHAR],Administration Vice President,100,Executive
+102,Lex,[LDEHAAN],Administration Vice President,100,Executive
+103,Alexander,[AHUNOLD],Programmer,102,IT
+104,Bruce,[BERNST],Programmer,103,IT
+105,David,[DAUSTIN],Programmer,103,IT
+106,Valli,[VPATABAL],Programmer,103,IT
+107,Diana,[DLORENTZ],Programmer,103,IT
+108,Nancy,[NGREENBE],Finance Manager,101,Finance
+109,Daniel,[DFAVIET],Accountant,108,Finance
+110,John,[JCHEN],Accountant,108,Finance
+111,Ismael,[ISCIARRA],Accountant,108,Finance
+112,Jose Manuel,[JMURMAN],Accountant,108,Finance
+113,Luis,[LPOPP],Accountant,108,Finance
+114,Den,[DRAPHEAL],Purchasing Manager,100,Purchasing
+115,Alexander,[AKHOO],Purchasing Clerk,114,Purchasing
+116,Shelli,[SBAIDA],Purchasing Clerk,114,Purchasing
+117,Sigal,[STOBIAS],Purchasing Clerk,114,Purchasing
+118,Guy,[GHIMURO],Purchasing Clerk,114,Purchasing
+119,Karen,[KCOLMENA],Purchasing Clerk,114,Purchasing
+120,Matthew,[MWEISS],Stock Manager,100,Shipping
+121,Adam,[AFRIPP],Stock Manager,100,Shipping
+122,Payam,[PKAUFLIN],Stock Manager,100,Shipping
+123,Shanta,[SVOLLMAN],Stock Manager,100,Shipping
+124,Kevin,[KMOURGOS],Stock Manager,100,Shipping
+125,Julia,[JNAYER],Stock Clerk,120,Shipping
+126,Irene,[IMIKKILI],Stock Clerk,120,Shipping
+127,James,[JLANDRY],Stock Clerk,120,Shipping
+129,Laura,[LBISSOT@],Stock Clerk,121,Shipping
+198,Donald,[DOCONNEL],Shipping Clerk,124,Shipping
+199,Douglas,[DGRANT],Shipping Clerk,124,Shipping
+200,Jennifer,[JWHALEN],Administration Assistant,101,Administration
+201,Michael,[MHARTSTE],Marketing Manager,100,Marketing
+202,Pat,[PFAY],Marketing Representative,201,Marketing
+203,Susan,[SMAVRIS],Human Resources Representative,101,Human Resources
+204,Hermann,[HBAER],Public Relations Representative,101,Public Relations
+205,Shelley,[SHIGGINS],Accounting Manager,101,Accounting
+206,William,[WGIETZ],Public Accountant,205,Accounting
+100,Steven,[SKING],President, - ,Executive
+101,Neena,[NKOCHHAR],Administration Vice President,100,Executive
+102,Lex,[LDEHAAN],Administration Vice President,100,Executive
+103,Alexander,[AHUNOLD],Programmer,102,IT
+104,Bruce,[BERNST],Prog
